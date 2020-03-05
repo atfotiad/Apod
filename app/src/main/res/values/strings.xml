@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Apod</string>
+    <string name="title">Title</string>
+    <string name="get_picture_of_the_day">Get Picture of the day</string>
+    <string name="explanation">Explanation</string>
+    <string name="save">Save</string>
+    <string name="apod">Astronomy Picture Of The Day</string>
+</resources>
